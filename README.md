@@ -2,7 +2,7 @@
 <h1 align="center"> DateSorter</h1>
  
  <p align="center">
-  <img src="https://github.com/SofiiaKazanivska/CustomDateComparator/blob/master/sorting.jpg" alt="CustomDateComparator
+  <img src="https://github.com/SofiiaKazanivska/CustomDateComparator/blob/master/sorting.jpg" alt="DateSorter
 " width="400">
 
 </p>
